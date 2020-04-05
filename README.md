@@ -1,4 +1,4 @@
-WaziApp examples
+NBrainsApp
 ================
 
 This folder contains several examples of Waziup applications.   
