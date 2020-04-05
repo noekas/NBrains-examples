@@ -2,7 +2,7 @@ NBrainsApp
 ================
 
 This folder contains several examples of Waziup applications.   
-The examples are running in Github pages: https://noekas.github.io/WaziApps-examples/index.html
+The examples are running in Github pages: https://noekas.github.io
 Full tutorial: http://www.waziup.io/tutorials/software/browserapp/   
 
 Usage
