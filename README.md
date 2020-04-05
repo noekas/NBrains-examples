@@ -2,7 +2,7 @@ NBrainsApp1
 ================
 
 This folder contains several examples of Waziup applications.   
-The examples are running in Github pages: https://nbrains.github.io/www/complete/index.html 
+The examples are running in Github pages: https://nbrains.github.io/www/complete/index.html
 Full tutorial: http://www.waziup.io
 
 Usage
